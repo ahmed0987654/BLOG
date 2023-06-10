@@ -1,2 +1,1 @@
-# BLOG
-My personal CV
+Example site modified from https://github.com/gohugoio/hugoBasicExample
